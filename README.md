@@ -1,2 +1,2 @@
 # Fireworks
-A Fireworks animation made using tkinter in python.
+A procedurally generated Fireworks animation. 
