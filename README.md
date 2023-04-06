@@ -1,4 +1,7 @@
 # Fireworks
 
-A different set of fireworks are generated every time the program is used. There are several paramaters that are used. 
-Feel free to change around the intervals of the paramaters.
+A procedurally generated fireworks animation that has several parameters which can be played around with in order to achieve different results. 
+
+## Example animation:
+https://user-images.githubusercontent.com/62028675/230506874-54ec84a5-5a70-4e56-bb42-900824397514.mp4
+
